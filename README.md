@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshotApp.png)
 
 
 ### Links
 
 - Solution URL: (https://your-solution-url.com)
-- GitHub Pages URL: (https://your-live-site-url.com)
+- GitHub Pages URL: ([https://your-live-site-url.com](https://elaf-gardi.github.io/Frontend-Mentor-advice-generator-app/))
 
 ## My process
 
